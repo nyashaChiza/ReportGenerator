@@ -1,4 +1,4 @@
-# ReportGenator
+# ReportGenerator
 A SQL-based report generator based on Pandas
 
 # Arguments
