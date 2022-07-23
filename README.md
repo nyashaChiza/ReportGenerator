@@ -2,10 +2,10 @@
 A SQL-based report generator based on Pandas
 
 # Arguments
-report title : string
-report format: string
-sql query : string
-connection string: string
+1. report title : string
+2. report format: string
+3. sql query : string
+4. connection string: string
 
 # Usage
 if __name__ == '__main__':
